@@ -42,4 +42,4 @@ sh ./scripts/stop.sh
 ```
 
 ### [☝︎ back to top](#toc)
-[docker-image]:https://hub.docker.com/r/kmade/nocker/
+[docker image]:https://hub.docker.com/r/kmade/nocker/
